@@ -1,4 +1,4 @@
-import {card} from './uiTools/card.js';
-import {button} from './uiTools/button.js';
+import {card} from 'uiTools/card';
+import {button} from 'uiTools/button';
 
 export var uiTools={card,button};

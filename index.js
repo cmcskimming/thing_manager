@@ -1,3 +1,3 @@
-import {uiTools} from './modules/uiTools.js';
+import {uiTools} from 'uiTools';
 uiTools.card.create();
 uiTools.button.create();
